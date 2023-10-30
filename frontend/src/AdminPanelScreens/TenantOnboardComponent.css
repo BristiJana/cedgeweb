@@ -1,0 +1,165 @@
+/* Add your custom styles here */
+
+.content {
+  padding: 20px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.mat-form-field {
+  width: 100%;
+}
+
+.mat-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mat-table th,
+.mat-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.mat-table th {
+  background-color: #666666;
+  color: white;
+}
+
+.mat-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.mat-table tbody tr:hover {
+  background-color: #ddd;
+}
+
+.btn-group {
+  display: inline-block;
+}
+
+.buttons-html5 {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.mat-form-field label {
+  display: flex;
+  align-items: center;
+}
+
+.mat-form-field em.fa-search {
+  margin-right: 5px;
+  font-size: 18px;
+  color: #007bff;
+}
+
+.btn.tblActnBtn {
+  margin-right: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.btn.tblActnBtn i.material-icons {
+  font-size: 18px;
+}
+
+.row.clearfix {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-lg-6,
+.col-md-6,
+.col-sm-6,
+.col-xs-12 {
+  flex: 0 0 48%;
+}
+
+.text-right {
+  text-align: right;
+}
+
+/* Add more custom styles as needed */
+
+input.MuiInputBase-input.MuiOutlinedInput-input
+{
+  padding: 12px;
+}
+div#mui-component-select-tenant_type_ref_id
+{
+  padding: 12px;
+
+}
+div#mui-component-select-tenant_belongs_to
+{
+  padding: 12px;
+
+}
+div#mui-component-select-country_ref_id
+{
+  padding: 12px;
+
+}
+div#mui-component-select-state_ref_id
+{
+  padding: 12px;
+
+}
+
+div#mui-component-select-city_ref_id
+{
+  padding: 12px;
+
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.btn.btn-primary.mr5
+{
+  background-color: #6777ef ;
+  color:white;
+  margin-right: 20px;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.btn.btn-danger
+{
+  background-color: #dc3545;
+  color:white
+}
+button.btn.tblActnBtn.h-auto {
+  background-color: transparent;
+  color: black;
+}
+button.btn.btn-secondary.buttons-html5 {
+background-color: #656262;
+}
+em.fa.fa-search{
+color: #656262;
+}
+div#mui-component-select-tenant_name {
+padding: 12px;
+}
+div#mui-component-select-role_name{
+padding: 11px;
+}
+div#mui-component-select-user_name{
+padding: 10px;
+}
+/* DateInput.css */
+
+.custom-date-input {
+padding: 10px; 
+border: 1px solid #ccc;
+border-radius: 6px;
+}
+input.timee
+{
+width:100%;
+padding: 3px;
+}
